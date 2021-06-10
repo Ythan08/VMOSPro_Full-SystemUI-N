@@ -2,6 +2,8 @@
 
 The full SystemUI of stock Nougat Android (VMOS Pro). Replace SystemUI which is changed by VMOS Team.
 
+Required LPPatches module
+
 ## Before (Current SystemUI)
 
 <img src="https://i.imgur.com/wK5w9rK.png" width=50%/><img src="https://i.imgur.com/wPDiehU.png" width=50%/>
