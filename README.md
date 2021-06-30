@@ -12,5 +12,4 @@ Required LPPatches module
 
 <img src="https://i.imgur.com/bBU5K5n.png" width=50%/><img src="https://i.imgur.com/5TN7iMt.png" width=50%/>
 
-
-[Read "How to install a module"](https://github.com/HuskyDG/VMOSPro_RootXposed_Terminal#vmos-tool-module-v18)
+Read [How to install modification zip](https://github.com/HuskyDG/VMOSPro_RootXposed_Terminal#how-to-install-a-module) 
